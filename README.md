@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/SomnuekM/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SomnuekM/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,postgres,java,linux,eclipse,vscode,electron)](https://skillicons.dev)
 
