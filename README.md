@@ -1,4 +1,7 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SomnuekM&data=followers,repositories,stars,commits)](https://github.com/SomnuekM/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/SomnuekM/github-widgetbox)
+
 - 👋 Hi, I’m @SomnuekM,
   I have an experience in computer programming. I am proficient in JavaScript, NodeJS, pgSQL, PHP, HTML, CSS. I am highly responsible and enthusiastic about learning new things.
 
