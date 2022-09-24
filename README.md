@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,eclipse,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,sql,java,eclipse,electron)](https://skillicons.dev)
 
 ![Profile views](https://gpvc.arturio.dev/SomnuekM)
