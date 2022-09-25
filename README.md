@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,postgres,java,linux,eclipse,vscode,electron)](https://skillicons.dev)
 
-![Profile views](https://gpvc.arturio.dev/SomnuekM)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnuekM&layout=compact)](https://github.com/SomnuekM/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/SomnuekM)
