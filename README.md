@@ -15,4 +15,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Profile views](https://gpvc.arturio.dev/SomnuekM)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
