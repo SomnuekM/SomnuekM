@@ -20,10 +20,9 @@
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=SomnuekM&data=followers,repositories,stars,commits)](https://github.com/SomnuekM/github-widgetbox)
+<h2> My GitHub Stats </h2>
+![Metrics](https://metrics.lecoq.io/SomnuekM?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SomnuekM)](https://github.com/SomnuekM/github-contribution-stats/)
- 
 <h2> Connect with me </h2>
 <a href = 'https://www.linkedin.com/in/somnuek-mueanprasan-70935619a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://medium.com/@somnuekmueanprasan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
