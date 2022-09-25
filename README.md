@@ -15,13 +15,14 @@
 - My name is Nut. I have an experience in computer programming. I am proficient in JavaScript, NodeJS, pgSQL, PHP, HTML, CSS. Writing a program has allowed me to develop both problem solving and program designing skills. I have good interpersonal skills and I am highly responsible and enthusiastic about learning new things.
   
 <h2> Connect with me 🤝 </h2>
-<a href = 'https://www.linkedin.com/in/somnuek-mueanprasan-70935619a'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://medium.com/@somnuekmueanprasan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'https://www.github.com/SomnuekM'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="https://www.linkedin.com/in/somnuek-mueanprasan-70935619a/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+ <a href="https://somnuekmueanprasan.medium.com/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+ </a>  
 
   
 <h2> My GitHub Stats   </h2>
-
+  
 ![Metrics](https://metrics.lecoq.io/SomnuekM?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
- 
