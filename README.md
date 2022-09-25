@@ -10,18 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SomnuekM)](https://github.com/SomnuekM/github-contribution-stats/)
  
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,php,postgres,java,linux,eclipse,vscode,electron)](https://skillicons.dev)
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnuekM&layout=compact)](https://github.com/SomnuekM/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SomnuekM&layout=compact)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-contribution-stats.vercel.app/api/?username=SomnuekM)" />
-</a>
 
 ![Profile views](https://gpvc.arturio.dev/SomnuekM)
