@@ -23,9 +23,6 @@ Skills: JS / HTML / CSS / PHP / JAVA
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/blogs/medium.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
  </a>  
 
-<h2> My GitHub Stats   </h2>
-  
-![Metrics](https://metrics.lecoq.io/SomnuekM?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 <h2> Github Profile Trophy  </h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SomnuekM)](https://github.com/ryo-ma/github-profile-trophy)
