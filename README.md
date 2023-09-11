@@ -2,8 +2,6 @@
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> 
 </h1>
 
-![Profile views](https://gpvc.arturio.dev/SomnuekM)
-
 <div size='20px'> Hi! My name is Somnuek Mueanprasan. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
